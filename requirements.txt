@@ -3,3 +3,4 @@ reportlab>=4.0
 Pillow>=10.0
 gunicorn
 flask
+flask-sqlalchemy
